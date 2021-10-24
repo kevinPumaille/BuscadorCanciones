@@ -1,0 +1,91 @@
+.EspacioCan{
+    background: white;
+    padding-top: 2rem;
+    padding-bottom: 2rem;    
+}
+
+.buscador{
+    background-color: white;
+    border: 1px solid #b0b0b0;  
+    border-radius: 50px;  
+    margin: auto 0px;
+}
+
+.buscador input{
+    
+    border: none;       
+    padding: 5px 10px 5px 10px;
+}
+
+.buscador input:focus{    
+    box-shadow: none;
+    outline: 0;
+}
+
+.nombreUs p{
+    margin: 0.5rem;
+}
+
+.imagPort {
+    padding: 0px;
+    margin: 0px auto;
+}
+
+.infoPort{
+    color: white;
+    background-color: #c38888;
+}
+
+.infoPort .titulo{
+    color: white;
+    font-weight: bold;
+}
+
+.infoPort .loMejor{
+    font-weight: normal;
+    font-size: 0.8rem;
+}
+
+.infoPort .seguidores{
+    font-weight: normal;
+    color: #662323;
+    font-size: 0.7rem;
+}
+
+.infoPort .descripcion{
+    font-size: 0.8rem;
+}
+.infoPort .btnReproducir,.infoPort .btnSeguir{
+    font-size: 0.8rem;
+    border-radius: 20px;
+    background-color: #e86060;
+    border: 0px;
+    color: white;
+    margin-right: 1rem;    
+}
+
+.infoPort .btnReproducir:focus{
+    outline: 0;    
+}
+
+.infoPort .btnSeguir:focus{
+    outline: 0;
+    border: 1px solid #e86060;
+    color: #a53838;
+    background: transparent;    
+}
+
+.resultados{
+    color: #e86060;
+    font-size: 1.2rem;    
+}
+
+.imgAlbum {
+    width: 9rem;
+}
+
+.album{
+    width: 10rem;
+    margin: 0px auto;
+}
+
